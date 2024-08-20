@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vamsikaturi
 - 👀 I’m interested in frontend and backend technologies
-- 🌱 I’m currently learning on technologies like python,sql,javascript,html,css,bootstrap
+- 🌱 I’m currently learning on technologies like python,sql,javascript,html,css,bootstrap, Reactjs, nodejs
 - 💞️ I’m looking to collaborate on fullstack developer
 - 📫 How to reach me ... 7032545005 and vamsikaturi1999@gmail.com
 
